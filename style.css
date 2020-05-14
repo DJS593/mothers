@@ -55,5 +55,18 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 200px;
+  height: 150px;
+}
+
+.row3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25px;
+}
+
+.btn {
+  background-color: orange;
+  color: black;
+  font: 20px;
 }
